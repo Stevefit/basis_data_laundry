@@ -4,71 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb089ddc-f420-4111-9447-3ddfb23f6b02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/DeliveryPriceRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/Promo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/PromoApplicableCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry/TransactionDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_controller/CategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_controller/DeliveryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_controller/DeliveryPriceRangeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_controller/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_controller/ItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_controller/NotaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_controller/PaymentMethodController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_controller/PromoApplicableCategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_controller/PromoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_controller/TransactionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_controller/TransactionDetailController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/CategoryProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/CustomerProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/DeliveryPriceRangeProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/DeliveryProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/EmployeeProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/ItemProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/NotaProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/PaymentMethodProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/PromoApplicableProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/PromoProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/TransactionDetailProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/TransactionProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/category.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/customer.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/delivery.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/deliverypricerange.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/employee.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/item.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/nota.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/paymentmethod.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/promo.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/promoapplicablecategory.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/transaction.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/basis_data_laundry/transactiondetail.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="cb089ddc-f420-4111-9447-3ddfb23f6b02" name="Changes" comment="all scheme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -117,6 +53,29 @@
       <option name="presentableId" value="Default" />
       <updated>1686359562156</updated>
     </task>
+    <task id="LOCAL-00001" summary="all scheme">
+      <created>1686365402245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686365402245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all scheme" />
+    <option name="LAST_COMMIT_MESSAGE" value="all scheme" />
   </component>
 </project>
