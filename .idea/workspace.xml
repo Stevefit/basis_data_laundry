@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb089ddc-f420-4111-9447-3ddfb23f6b02" name="Changes" comment="all scheme" />
+    <list default="true" id="cb089ddc-f420-4111-9447-3ddfb23f6b02" name="Changes" comment="all scheme">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_repository/DeliveryPriceRangeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_repository/DeliveryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_repository/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_repository/NotaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_repository/PaymentMethodRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_repository/PromoApplicableCategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_repository/PromoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_repository/TransactionDetailRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_repository/TransactionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/CategoryProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/CategoryProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/CustomerProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/CustomerProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/DeliveryPriceRangeProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/DeliveryPriceRangeProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/DeliveryProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/DeliveryProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/EmployeeProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/EmployeeProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/ItemProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/ItemProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/NotaProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/NotaProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/PaymentMethodProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/PaymentMethodProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/PromoApplicableProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/PromoApplicableCategoryProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/PromoProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/PromoProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/TransactionDetailProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/TransactionDetailProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/TransactionProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/basis_data_laundry_property/TransactionProperty.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686365402245</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="all scheme">
+      <created>1686366017734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686366017734</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
